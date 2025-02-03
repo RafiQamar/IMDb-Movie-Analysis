@@ -6,9 +6,7 @@ This project involves web scraping, data preprocessing, database storage, and vi
 ###
 
 <div align="center">
-
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg](https://github.com/RafiQamar/IMDb-Movie-Analysis/blob/main/IMDb%20Dashboard%20Demo.gif)" height="200" alt="IMDB Dashboard gif"  />
-  
+  <img src="https://github.com/RafiQamar/IMDb-Movie-Analysis/blob/main/IMDb%20Dashboard%20Demo.gif?raw=true" height="200" alt="IMDB Dashboard gif" />
 </div>
 
 ###
