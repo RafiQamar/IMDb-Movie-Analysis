@@ -3,6 +3,16 @@
 ## Project Overview
 This project involves web scraping, data preprocessing, database storage, and visualization of IMDb movie data from the last decade (2014-2024). The dataset includes details of 10,000 movies such as name, release year, genre, ratings, actors, directors, metascore, and more. The project culminates in an interactive Power BI dashboard for in-depth insights and reporting.
 
+###
+
+<div align="center">
+
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg](https://github.com/RafiQamar/IMDb-Movie-Analysis/blob/main/IMDb%20Dashboard%20Demo.gif)" height="200" alt="IMDB Dashboard gif"  />
+  
+</div>
+
+###
+
 ## Technologies Used
 - **Web Scraping:** BeautifulSoup, Selenium, Requests, Time, Random
 - **Data Processing:** Pandas, NumPy
