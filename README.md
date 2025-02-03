@@ -6,7 +6,7 @@ This project involves web scraping, data preprocessing, database storage, and vi
 ## Technologies Used
 - **Web Scraping:** BeautifulSoup, Selenium, Requests, Time, Random
 - **Data Processing:** Pandas, NumPy
-- **Machine Learning:** Scikit-learn (RandomForestClassifier for genre prediction)
+- **Machine Learning:** Scikit-learn (RandomForestClassifier for genre prediction), TfidfVectorizer
 - **Database Management:** MySQL, SQLAlchemy, MySQL Connector
 - **Visualization:** Power BI
 
